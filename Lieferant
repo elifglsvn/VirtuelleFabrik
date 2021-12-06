@@ -1,0 +1,11 @@
+lieferID, lieferantname, straße, ort, plz, beschaffungsID
+11, Rolf Weber KG, Rolf-Weber-Platz 1-2, Schauenstein, 95197, 1
+12, Dieterle GmbH Metall- und Stahlcenter, Heilbronnerstraße 15, Göppingen, 73037, 2
+13, Oetinger Aluminium NU GmbH, Max-Eyth-Straße 40, Neu-Ulm, 89231, 3
+14, Dieterle GmbH Metall- und Stahlcenter, Heilbronnerstraße 15, Göppingen, 73037, 4
+15, Ege Textilmanufaktur GmbH, König-Wilhelm-Straße 10/3 D, Ulm, 89073 5
+16, Kunststoff-Technik Kranz GmbH, Düsseldorferstraße 12/1, Waiblingen, 71332, 6
+17, Dieterle GmbH Metall- und Stahlcenter, Heilbronnerstraße 15, Göppingen, 73037, 7
+18, Zeller+Gmelin GmbH Co. KG, Schloßstraße 20, Eislingen/Fils, 73054, 8
+19, Albert Schön GmbH, Lerchenweg 9, Hohenkammer, 85411, 9
+20, Zeller+Gmelin GmbH Co. KG, Schloßstraße 20, Eislingen/Fils, 73054, 10
