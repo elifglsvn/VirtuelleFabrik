@@ -1,8 +1,8 @@
 produktID, produktname, menge, auID, lagID
-1001, Zylinder, 100, 
-1002, Keilriemen, 150
-1003, Zündkerze, 180
-1004, Stoßdämpfer, 300
-1005, Bremsscheibe, 200, 
-1006, Bremssattel, 250
+1001, Zylinder, 100, 10001,
+1002, Keilriemen, 150, 10002,
+1003, Zündkerze, 180, 10003,
+1004, Stoßdämpfer, 300, 10004,
+1005, Bremsscheibe, 200, 10005,
+1006, Bremssattel, 250, 10006,
 
