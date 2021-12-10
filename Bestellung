@@ -1,3 +1,10 @@
+Create Table bestellung
+(
+bestellID int not null,
+datum Date,
+Primary key (bestellID)
+);
+
 bestellID, produkt, bestellmenge, datum
 110, Zylinder, 50, 01.02.2022
 110, Zündkerze, 50, 01.02.2022
