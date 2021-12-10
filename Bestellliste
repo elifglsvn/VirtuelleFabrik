@@ -1,3 +1,13 @@
+Create Table bestellliste
+(
+listenID int not null,
+produktname varchar(30),
+bestellmenge int,
+bestellID int,
+Primary key (listenID, produktname),
+FOREIGN KEY (bestellID) REFERENCES Bestellung(bestellID)
+);
+
 auID, fertnr, transportnr, bestellID
 10000, 11000, 1000011000, 110
 10001, 11001, 1000111001, 110
