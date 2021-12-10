@@ -1,3 +1,13 @@
+Create Table produkt
+(
+produktID int not null,
+produktname varchar(30),
+preis float,
+listenID int,
+Primary key (produktID),
+FOREIGN KEY (listenID) REFERENCES bestellliste(listenID)
+);
+
 produktID, produktname, menge, auID, lagID
 1001, Zylinder, 100, 10001, 4
 1002, Keilriemen, 150, 10002, 2
