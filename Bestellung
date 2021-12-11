@@ -5,11 +5,10 @@ datum Date,
 Primary key (bestellID)
 );
 
-bestellID, produkt, bestellmenge, datum
-110, Zylinder, 50, 01.02.2022
-110, Zündkerze, 50, 01.02.2022
-120, Stoßdämpfer, 40, 01.03.2022
-130, Bremsscheibe, 70, 15.03.2022
-130, Bremssattel, 60, 15.03.2022
-140, Zündkerze, 50, 30.03.2022
-150, Keilriemen, 40, 30.03.2022
+bestellID,datum
+11000,01.02.2021
+11001,01.02.2021
+11002,01.03.2021
+11003,15.03.2021
+11004,15.03.2021
+11005,30.03.2021
