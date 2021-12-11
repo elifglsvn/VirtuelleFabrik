@@ -8,12 +8,10 @@ Primary key (listenID, produktname),
 FOREIGN KEY (bestellID) REFERENCES Bestellung(bestellID)
 );
 
-auID, fertnr, transportnr, bestellID
-10000, 11000, 1000011000, 110
-10001, 11001, 1000111001, 110
-10002, 11002, 1000211002, 120
-10003, 11003, 1000311003, 130
-10004, 11004, 1000411004, 140
-10005, 11005, 1000511005, 140
-10006, 11006, 1000611006, 150
-10007, 11007, 1000711007, 150
+listenID,produktname,bestellmenge,bestellID
+1,Zylinder,10,11000
+2,Keilriemen,10,11001
+3,Zündkerze,10,11002
+4,Stoßdämpfer,20,11003
+5,Bremsscheibe,20,11004
+6,Bremssattel,15,11005
