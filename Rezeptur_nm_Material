@@ -1,0 +1,8 @@
+Create Table rezeptur_nm_material
+(
+materialID int not null,
+rezepturID int,
+Primary key (materialID, rezepturID),
+FOREIGN KEY (materialID) REFERENCES material(materialID),
+FOREIGN KEY (rezepturID) REFERENCES rezeptur(rezepturID)
+)
