@@ -5,6 +5,7 @@ datum Date,
 Primary key (bestellID)
 );
 
+
 bestellID,datum
 11000111,2021-02-02
 11000112,2021-02-17
