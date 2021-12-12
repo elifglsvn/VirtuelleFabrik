@@ -8,7 +8,7 @@ Primary key (produktID),
 FOREIGN KEY (listenID) REFERENCES bestellliste(listenID)
 );
 
-
+produktID,produktname,preis,listenID
 
 101010,Bremsbelagsatz Vorderachse,24.99,
 101011,Bremsbelagsatz Hinterachse,29.99,
