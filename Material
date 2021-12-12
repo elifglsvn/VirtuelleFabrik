@@ -7,6 +7,7 @@ Primary key (materialID),
 FOREIGN KEY (beschaffungsID) REFERENCES beschaffung(beschaffungsID)
 );
 
+
 materialID,stoff,beschaffungsID
 40001,Kupfer,10
 40002,Messing,20
