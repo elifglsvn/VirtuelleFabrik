@@ -1,4 +1,5 @@
 lieferID, lieferantname, straße, ort, plz, beschaffungsID
+
 11,Rolf Weber KG,Rolf-Weber-Platz 1-2,Schauenstein,95197,60
 12,Dieterle GmbH Metall- und Stahlcenter,Heilbronnerstraße 15,Göppingen,73037,40
 13,Oetinger Aluminium NU GmbH,Max-Eyth-Straße 40,Neu-Ulm,89231,50
@@ -10,7 +11,3 @@ lieferID, lieferantname, straße, ort, plz, beschaffungsID
 19,BIKAR-Aluminium GmbH,Bikarstraße 1,Korbußen,07554,10
 20,Herrmann & Co. GmbH,Gartenstraße 4-6,Nürnberg,90443,20
 21,Detlef Drafz ELG Haniel GmbH,Kremerskampstraße 16,Duisburg,47138,70
-
-
-
-
