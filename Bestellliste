@@ -9,9 +9,15 @@ FOREIGN KEY (bestellID) REFERENCES Bestellung(bestellID)
 );
 
 listenID,produktname,bestellmenge,bestellID
-1,Zylinder,10,11000
-2,Keilriemen,10,11001
-3,Zündkerze,10,11002
-4,Stoßdämpfer,20,11003
-5,Bremsscheibe,20,11004
-6,Bremssattel,15,11005
+11011,Bremsscheibe Vorderachse,30,11000111
+11012,Bremsscheibe Hinterachse,30,11000111
+11013,Bremssattel Vorderachse,40,11000111
+11014,Bremssattel Hinterachse,40,11000111
+11015,Ölfilter,20,11000113
+11016,Luftfilter,60,11000113
+11017,Kraftstofffilter,50,11000113
+11018,Hauptscheinwerfer,60,11000116
+11019,Fernscheinwerfer,60,11000116
+11020,Rückleuchte,20,11000116
+11021,Blinkleuchte,50,11000116
+11022,Motorhaube,4,11000118
