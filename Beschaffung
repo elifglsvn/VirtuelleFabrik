@@ -1,9 +1,9 @@
 beschaffungsID,anzahl,artikel
-1,1000,Kupfer
-2,1000,Messing
-3,1000,Eisen
-4,1000,Metall
-5,2000,Aluminium
-6,2000,Gummi
-7,2000,Nickel
-8,2000,Gewebe
+10,1000,Kupfer
+20,1000,Messing
+30,1000,Eisen
+40,1000,Metall
+50,2000,Aluminium
+60,2000,Gummi
+70,2000,Nickel
+80,2000,Gewebe
