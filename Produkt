@@ -50,7 +50,7 @@ FOREIGN KEY (listenID) REFERENCES bestellliste(listenID)
 103011,Stoßdämpfer Hinterachse,37.91,
 103020,Fahrwerksfeder,20.97,
 103030,Staubschutzsatz,11.52,
-103030,Federbeinstützlager,14.41,
+103040,Federbeinstützlager,14.41,
 104010,Radlager Vorderachse,14.81,
 104011,Radlager Hinterachse,14.81,
 104020,Koppelstange Vorderachse,8.65,
