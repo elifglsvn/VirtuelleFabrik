@@ -9,6 +9,7 @@ Primary key (rezepturID,stoff),
 FOREIGN KEY (produktID) REFERENCES produkt(produktID)
 );
 
+
 rezepturID,stoff,produktname,menge,produktID
 4001,Kupfer,Bremsbelagsatz,8,101010
 4002,Messing,Bremsbelagsatz,3,101010
