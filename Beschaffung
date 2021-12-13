@@ -1,13 +1,13 @@
-beschaffungsID,anzahl,artikel
+beschaffungsID, anzahl, artikel
 
-10,1000,Kupfer
-20,1000,Messing
-30,1000,Eisen
-40,1000,Metall
-50,2000,Aluminium
-60,2000,Gummi
-70,2000,Nickel
-80,2000,Gewebe
-90,1500,Stahl
-100,1600,Kunststoff
-110,2000,Öl
+10, 1000, Kupfer
+20, 1000, Messing
+30, 1000, Eisen
+40, 1000, Metall
+50, 2000, Aluminium
+60, 2000, Gummi
+70, 2000, Nickel
+80, 2000, Gewebe
+90, 1500, Stahl
+100, 1600, Kunststoff
+110, 2000, Öl
