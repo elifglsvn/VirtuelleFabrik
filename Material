@@ -8,12 +8,12 @@ FOREIGN KEY (beschaffungsID) REFERENCES beschaffung(beschaffungsID)
 );
 
 
-materialID,stoff,beschaffungsID
-40001,Kupfer,10
-40002,Messing,20
-40003,Eisen,30
-40004,Metall,40
-40005,Aluminium,50
-40006,Gummi,60
-40007,Nickel,70
-40008,Gewebe,80
+materialID, stoff, beschaffungsID
+40001, Kupfer, 10
+40002, Messing, 20
+40003, Eisen, 30
+40004, Metall, 40
+40005, Aluminium, 50
+40006, Gummi, 60
+40007, Nickel, 70
+40008, Gewebe, 80
