@@ -1,13 +1,13 @@
 lieferID, lieferantname, straße, ort, plz, beschaffungsID
 
-11,Rolf Weber KG,Rolf-Weber-Platz 1-2,Schauenstein,95197,60
-12,Dieterle GmbH Metall- und Stahlcenter,Heilbronnerstraße 15,Göppingen,73037,40
-13,Oetinger Aluminium NU GmbH,Max-Eyth-Straße 40,Neu-Ulm,89231,50
-14,INTER STAHL SÜD Vertriebs GmbH,Öschstraße 29,Donzdorf,73072,90
-15,Ege Textilmanufaktur GmbH, König-Wilhelm-Straße 10/3 D,Ulm,89073,80
-16,Kunststoff-Technik Kranz GmbH,Düsseldorferstraße 12/1,Waiblingen,71332,100
-17,Zeller+Gmelin GmbH Co. KG,Schloßstraße 20,Eislingen/Fils,73054,110
-18,Rolf Weber KG,Rolf-Weber-Platz 1-2,Schauenstein,95197,30
-19,BIKAR-Aluminium GmbH,Bikarstraße 1,Korbußen,07554,10
-20,Herrmann & Co. GmbH,Gartenstraße 4-6,Nürnberg,90443,20
-21,Detlef Drafz ELG Haniel GmbH,Kremerskampstraße 16,Duisburg,47138,70
+11, Rolf Weber KG, Rolf-Weber-Platz 1-2, Schauenstein, 95197, 60
+12, Dieterle GmbH Metall- und Stahlcenter, Heilbronnerstraße 15, Göppingen, 73037, 40
+13, Oetinger Aluminium NU GmbH, Max-Eyth-Straße 40, Neu-Ulm, 89231, 50
+14, INTER STAHL SÜD Vertriebs GmbH, Öschstraße 29, Donzdorf, 73072, 90
+15, Ege Textilmanufaktur GmbH, König-Wilhelm-Straße 10/3 D, Ulm, 89073, 80
+16, Kunststoff-Technik Kranz GmbH, Düsseldorferstraße 12/1, Waiblingen, 71332, 100
+17, Zeller+Gmelin GmbH Co. KG,Schloßstraße 20, Eislingen/Fils, 73054, 110
+18, Rolf Weber KG, Rolf-Weber-Platz 1-2, Schauenstein, 95197, 30
+19, BIKAR-Aluminium GmbH, Bikarstraße 1, Korbußen, 07554, 10
+20, Herrmann & Co. GmbH, Gartenstraße 4-6, Nürnberg, 90443, 20
+21, Detlef Drafz ELG Haniel GmbH, Kremerskampstraße 16, Duisburg, 47138, 70
