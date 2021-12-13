@@ -3,11 +3,10 @@ Create Table produkt
 produktID int not null,
 produktname varchar(30),
 preis float,
-listenID int,
 Primary key (produktID)
 );
 
-produktID,produktname,preis,listenID
+produktID, produktname, preis
 
 101010, Bremsbelagsatz Vorderachse, 24.99
 101011, Bremsbelagsatz Hinterachse, 29.99
