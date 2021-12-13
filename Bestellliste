@@ -9,7 +9,7 @@ FOREIGN KEY (bestellID) REFERENCES Bestellung(bestellID)
 );
 
 
-listenID, produktname,bestellmenge,bestellID
+listenID, produktname, bestellmenge, bestellID
 11011, Bremsscheibe Vorderachse, 30, 11000111
 11012, Bremsscheibe Hinterachse, 30, 11000111
 11013, Bremssattel Vorderachse, 40, 11000111
