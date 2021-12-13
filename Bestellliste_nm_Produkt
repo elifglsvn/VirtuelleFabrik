@@ -2,8 +2,22 @@
 Create Table bestellliste_nm_produkt
 (
 listenID int not null,
-produkID int,
+produktID int,
 Primary key (listenID, produktID),
 FOREIGN KEY (listenID) REFERENCES bestellliste(listenID),
 FOREIGN KEY (produktID) REFERENCES produkt(produktID)
 )
+
+listenID, produktID
+11011, 101020
+11012, 101021
+11013, 101030
+11014, 101031
+11015, 102100
+11016, 102110
+11017, 102120
+11018, 105010
+11019, 105020
+11020, 105040
+11021, 105050
+11022, 106040
