@@ -10,13 +10,13 @@ FOREIGN KEY (produktID) REFERENCES produkt(produktID)
 );
 
 
-rezepturID,stoff,produktname,menge,produktID
-4001,Kupfer,Bremsbelagsatz,8,101010
-4002,Messing,Bremsbelagsatz,3,101010
-4003,Eisen,Bremsbelagsatz,2,101010
-4004,Metall,Bremsscheibe,10,101020
-4005,Aluminium,Bremssattel,9,101030
-4006,Gummi,Bremsschlauch,8,101040
-4007,Nickel,Bremsschlauch,2,101040
-4008,Metall,Ölfilter,4,102100
-4009,Gewebe,Ölfilter,5,102100
+rezepturID, stoff, produktname, menge, produktID
+4001, Kupfer, Bremsbelagsatz, 8, 101010
+4002, Messing, Bremsbelagsatz, 3, 101010
+4003, Eisen, Bremsbelagsatz, 2, 101010
+4004, Metall, Bremsscheibe, 10, 101020
+4005, Aluminium, Bremssattel, 9, 101030
+4006, Gummi, Bremsschlauch, 8, 101040
+4007, Nickel, Bremsschlauch, 2, 101040
+4008, Metall, Ölfilter, 4, 102100
+4009, Gewebe, Ölfilter, 5, 102100
