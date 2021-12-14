@@ -13,11 +13,11 @@ listenID, produktID, produktname
 11012, 101021, Bremsscheibe Hinterachse
 11013, 101030, Bremssattel Vorderachse
 11014, 101031, Bremssattel Hinterachse
-11015, 102100
-11016, 102110
-11017, 102120
-11018, 105010
-11019, 105020
-11020, 105040
-11021, 105050
-11022, 106040
+11015, 102100, Ölfilter
+11016, 102110, Luftfilter
+11017, 102120, Kraftstofffilter
+11018, 105010, Hauptscheinwerfer
+11019, 105020, Fernscheinwerfer
+11020, 105040, Rückleuchte
+11021, 105050, Blinkleuchte
+11022, 106040, Motorhaube
